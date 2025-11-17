@@ -22,16 +22,17 @@ h1 {
 }
 
 label {
-    font-size: 12px;
+    font-size: 22px;
     font-weight: bold;
     display: block;
-    margin-top: 15px;
+    margin-top: 100px;
 }
 
 input, textarea {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: none;
+    background-color: #F6F6F6;
     border-radius: 4px;
     margin-top: 5px;
     font-size: 14px;
@@ -39,7 +40,7 @@ input, textarea {
 
 h3 {
     margin-top: 25px;
-    font-size: 14px;
+    font-size: 36px;
 }
 
 .integrante-bloco {
